@@ -23,7 +23,8 @@ vipmath171course3@gmail.com     :--Github ultimate
                                  -- PhotoShop cc master class
 vipmath171course4@gmail.com : --Advanced CSS and SASS
                               -- Ultimate Drawing course beginner to advanced
-                              
+vipmath171course5@gmail.com : -- React Front to back (traversy)
+                              -- Machine Learning (Python & R )
                               
                               
                               SOME way that I haven't watched yet
