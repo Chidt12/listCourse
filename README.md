@@ -25,6 +25,13 @@ vipmath171course4@gmail.com : --Advanced CSS and SASS
                               -- Ultimate Drawing course beginner to advanced
 vipmath171course5@gmail.com : -- React Front to back (traversy)
                               -- Machine Learning (Python & R )
+vipmath171course6: -- Adobe Illustrator advanced
+                   -- Illustrator cc master class
+                   -- Photoshop freelancer
+vipmath171course7: -- PHotoshop advanced course
+vipmath171course8: -- aws developer associate
+vipmath171course9: -- Python Django traversy
+
                               
                               
                               SOME way that I haven't watched yet
